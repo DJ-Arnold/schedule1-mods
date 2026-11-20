@@ -1,0 +1,82 @@
+{
+  "mods": [
+    {
+      "file": "ModUpdater.dll",
+      "version": "1.0.0",
+      "sha256": "fb3e1e3080818badb62d72de9eaaf9ba29d7096ff9202ad39e4c9ba369eb609d",
+      "folder": "Plugins"
+    },
+    {
+      "file": "GameUI.dll",
+      "version": "1.4.2",
+      "sha256": "f1afb2ced3419433a65ce0d7dbdf4fdad2502976f55749ca04001fd2d8c1ce31",
+      "folder": "Mods"
+    },
+    {
+      "file": "DJChat.dll",
+      "version": "1.3.1",
+      "sha256": "11ee83481c810ff43382265443ca0e2d3e32febba924dde99ef3dc27014a9ac5",
+      "folder": "Mods"
+    },
+    {
+      "file": "SleepVote.dll",
+      "version": "1.1.2",
+      "sha256": "0da760fbf28dd24d127a3612490d9c81ec5c4f7c28ab325936d661774a73982c",
+      "folder": "Mods"
+    },
+    {
+      "file": "PlayerList.dll",
+      "version": "1.1.1",
+      "sha256": "3ca014b64c2858096d058cac0fdea74430540e757bb434fac41b18108076c726",
+      "folder": "Mods"
+    },
+    {
+      "file": "BagSave.dll",
+      "version": "1.0.1",
+      "sha256": "78086e5bd30527d4e6f18831ef39979ed1d0d908b146722435684c31776cd89c",
+      "folder": "Mods"
+    },
+    {
+      "file": "LabSave.dll",
+      "version": "2.0.1",
+      "sha256": "184610b9576744cf88a2cd1e457ee4d62d15016f3a537b638b758aee4a623da4",
+      "folder": "Mods"
+    },
+    {
+      "file": "IconFix.dll",
+      "version": "1.0.1",
+      "sha256": "e42078d133f1347d63eda7b7f7582239039b217b022f3811efd01b93f54af590",
+      "folder": "Mods"
+    },
+    {
+      "file": "Trade.dll",
+      "version": "1.1.2",
+      "sha256": "4bb9fd9e892a3c879f207c368331f7efb17b69475e034ebff4737e6139cc0a3f",
+      "folder": "Mods"
+    },
+    {
+      "file": "AskFirst.dll",
+      "version": "1.1.1",
+      "sha256": "c1e932641306fb2ada629b593ece6773dad3c98c4d0cd9e9ba8d31b4638cbd4a",
+      "folder": "Mods"
+    },
+    {
+      "file": "KeepProducts.dll",
+      "version": "1.0.0",
+      "sha256": "42ac74bf082e3acec8a4e3b148cbbde970ea189084fb0f2d6217ff6103b3f522",
+      "folder": "Mods"
+    },
+    {
+      "file": "GraffitiShare.dll",
+      "version": "1.1.1",
+      "sha256": "750328b54b3dfd10ad48a3c74878a9dfb986fd66a494d1bdaec314e9eb06df7c",
+      "folder": "Mods"
+    },
+    {
+      "file": "PhoneFix.dll",
+      "version": "1.7.6",
+      "sha256": "f994ea58fbbf4323277dc650cddbe10a1d8ad4ea1b0c6e593089049013a3f574",
+      "folder": "Mods"
+    }
+  ]
+}
