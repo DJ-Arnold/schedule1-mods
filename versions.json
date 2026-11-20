@@ -77,6 +77,12 @@
       "version": "1.7.8",
       "sha256": "29b19f09beda7404537500af0ced2aadea5237a1b00d06127d2a9a22f054d999",
       "folder": "Mods"
+    },
+    {
+      "file": "VapeMix.dll",
+      "version": "1.0.0",
+      "sha256": "70817df6f5adfda755fe94c2b963f20a2cd8b1a45260a4774cbdf6cb37fe7aed",
+      "folder": "Mods"
     }
   ]
 }
